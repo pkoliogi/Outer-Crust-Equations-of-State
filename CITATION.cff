@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these equation-of-state tables, please cite the associated paper."
+
+title: "Outer-crust equation-of-state tables"
+version: "1.0"
+doi: "10.5281/zenodo.21869259"
+date-released: 2026-08-10
+
+authors:
+  - family-names: "Koliogiannis"
+    given-names: "P.S."
+  - family-names: "Paar"
+    given-names: "N."
+
+preferred-citation:
+  type: article
+  title: "Outer-Crust Equations of State for Neutron Stars"
+  authors:
+    - family-names: "Koliogiannis"
+      given-names: "P.S."
+    - family-names: "Paar"
+      given-names: "N."
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2604.26952"
+  url: "https://arxiv.org/abs/2604.26952"
