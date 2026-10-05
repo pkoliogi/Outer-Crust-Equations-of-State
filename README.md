@@ -1,11 +1,15 @@
-# Outer-Crust Equations of State
+# Outer-crust equations of state
 
 EOS tables for the outer crust of neutron stars based on modern nuclear mass models.
 
 This repository provides the outer-crust equation-of-state (EOS) tables used in the paper:
 
-**P. S. Koliogiannis and N. Paar**  
-**Outer-Crust Equations of State for Neutron Stars**  
+**P. S. Koliogiannis and N. Paar**
+**Outer-crust equations of state for neutron stars**
+Astronomy & Astrophysics 714, A27 (2026)
+https://doi.org/10.1051/0004-6361/202660879
+
+Preprint:  
 arXiv:2604.26952 [nucl-th]  
 https://arxiv.org/abs/2604.26952
 
@@ -74,18 +78,17 @@ Units follow standard nuclear-astrophysics conventions.
 If you use these EOS tables, please cite as:
 
 ```bibtex
-@misc{koliogiannis2026outercrustequationsstateneutron,
-      title        = {Outer-Crust Equations of State for Neutron Stars},
-      author       = {P. S. Koliogiannis and N. Paar},
-      year         = {2026},
-      eprint       = {2604.26952},
-      archivePrefix= {arXiv},
-      primaryClass = {nucl-th},
-      url          = {https://arxiv.org/abs/2604.26952}
+@article{Koliogiannis_2026,
+	author = {{Koliogiannis, P. S.} and {Paar, N.}},
+	title = {Outer-crust equations of state for neutron stars},
+	DOI= "10.1051/0004-6361/202660879",
+	url= "https://doi.org/10.1051/0004-6361/202660879",
+	journal = {A&A},
+	year = 2026,
+	volume = 714,
+	pages = "A27",
 }
 ```
-
-Once the journal version is published, the citation information will be updated accordingly.
 
 ## License
 
