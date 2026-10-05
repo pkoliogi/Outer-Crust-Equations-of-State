@@ -4,9 +4,9 @@ EOS tables for the outer crust of neutron stars based on modern nuclear mass mod
 
 This repository provides the outer-crust equation-of-state (EOS) tables used in the paper:
 
-**P. S. Koliogiannis and N. Paar**
-**Outer-crust equations of state for neutron stars**
-Astronomy & Astrophysics 714, A27 (2026)
+**P. S. Koliogiannis and N. Paar**  
+**Outer-crust equations of state for neutron stars**  
+Astronomy & Astrophysics 714, A27 (2026)  
 https://doi.org/10.1051/0004-6361/202660879
 
 Preprint:  
